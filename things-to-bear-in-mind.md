@@ -6,7 +6,7 @@ detailed guide on how to do this, but we have listed below some key tips
 and issues to consider.
 
 Our [useful resources and links
-page](useful-resources-and-links.md)
+page](useful-resources-and-links)
 includes helpful web links for finding out more about important things
 to bear in mind when developing online interventions.
 
